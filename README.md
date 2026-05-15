@@ -2,7 +2,6 @@
 <div align="center">
 <div align="center">
   <h1>Blaize Egelhof</h1>
-  <br>
 </div>
   <br>
   <!-- Animated Roles -->
