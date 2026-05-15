@@ -1,6 +1,6 @@
-# Hi there, I'm Blaize 👋
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Blaize!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Animated Header" />
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=007ACC&width=435&lines=Backend+Development;Fintech+Integrations;Database+Management;Technical+Account+Management" alt="Typing SVG" />
 </div>
 
@@ -16,20 +16,25 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Languages & Databases -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
   
-  <!-- Tools & Platforms -->
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 📊 GitHub Stats
+### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=007acc&line=007acc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ### 📫 Let's Connect
