@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=50&lines=Backend+Development;Fintech+Integrations;Database+Management;Technical+Account+Management" alt="Typing SVG Roles" />
   <br>
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=007ACC&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Blaize-Egelhof&label=Profile%20Views&color=007ACC&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
