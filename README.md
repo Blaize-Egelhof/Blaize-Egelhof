@@ -1,6 +1,13 @@
 
 <div align="center">
-<img src="[https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=150&section=header&text=Hi%2C%20I'm%20Blaize&fontSize=50&fontColor=ffffff&fontAlignY=60](https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=150&section=header&text=Hi%2C%20I'm%20Blaize&fontSize=50&fontColor=ffffff&fontAlignY=60)" alt="Cloud-like Header" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=150&section=header&text=Hi%2C%20I%27m%20Blaize&fontSize=50&fontColor=ffffff&fontAlignY=60" alt="Cloud-like Header" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=50&lines=Backend+Development;Fintech+Integrations;Database+Management;Technical+Account+Management" alt="Typing Roles" />
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=007ACC&style=for-the-badge" alt="Profile Views" />
+</div>
   <br>
   <!-- Animated Roles -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=50&lines=Backend+Development;Fintech+Integrations;Database+Management;Technical+Account+Management" alt="Typing SVG Roles" />
