@@ -1,14 +1,13 @@
-<div align="center">
+
 <div align="center">
   <!-- Flashy Animated Name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=50&pause=1000&color=007ACC&center=true&vCenter=true&width=600&height=80&lines=HI,+I'M+BLAIZE+⚡;WELCOME+TO+MY+PROFILE+🚀" alt="Animated Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=007ACC&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Blaize;Welcome+to+my+profile!" alt="Animated Name" />
   <br>
   <!-- Animated Roles -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=50&lines=Backend+Development;Fintech+Integrations;Database+Management;Technical+Account+Management" alt="Typing SVG Roles" />
   <br>
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=007ACC&style=for-the-badge" alt="Profile Views" />
-</div>font=Fira+Code&weight=600&pause=1000&color=007ACC&width=435&lines=Backend+Development;Fintech+Integrations;Database+Management;Technical+Account+Management" alt="Typing SVG" />
 </div>
 
 ---
@@ -39,15 +38,6 @@
 * 🔍 Actively looking for new opportunities in technical support, e-commerce, or intake roles.
 * ⚡ Fact: I enjoy streamlining API logic and building efficient B2B setups.
 
-
-
-### 🎯 Current Focus & Projects
-
-| 🚀 Project / Focus Area | 📝 Description | 🔗 Link |
-| :--- | :--- | :--- |
-| **Payment Orchestration** | Designing scalable routing schemes and refining API logic for B2B fintech integrations. | *Private / Enterprise* |
-| **Backend Architecture** | Building robust data pipelines and managing database migrations using SQL and Python. | [View Code](#) |
-| **Business Management** | Applying management principles to streamline technical account setups and operations. | *In Progress* |
 
 ### 📫 Let's Connect
 
