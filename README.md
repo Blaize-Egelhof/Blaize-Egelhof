@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=150&section=header&text=Hi,%20I'm%20Blaize&fontSize=50&fontColor=ffffff&fontAlignY=60" alt="Cloud-like Header" />font=Fira+Code&weight=800&size=45&pause=1000&color=007ACC&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Blaize;Welcome+to+my+profile!" alt="Animated Name" />
+<img src="[https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=150&section=header&text=Hi%2C%20I'm%20Blaize&fontSize=50&fontColor=ffffff&fontAlignY=60](https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=150&section=header&text=Hi%2C%20I'm%20Blaize&fontSize=50&fontColor=ffffff&fontAlignY=60)" alt="Cloud-like Header" />
   <br>
   <!-- Animated Roles -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=50&lines=Backend+Development;Fintech+Integrations;Database+Management;Technical+Account+Management" alt="Typing SVG Roles" />
