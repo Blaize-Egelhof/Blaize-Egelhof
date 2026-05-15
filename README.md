@@ -5,13 +5,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-* ⚙️ I specialize in backend development, system migrations, and payment gateway integrations.
-* 🎓 Currently pursuing a degree in Management, bridging the gap between technical execution and business strategy.
-* 🔍 Actively looking for new opportunities in technical support, e-commerce, or intake roles.
-* ⚡ Fact: I enjoy streamlining API logic and building efficient B2B setups.
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
@@ -31,19 +24,28 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+### 👨‍💻 About Me
+
+* ⚙️ I specialize in backend development, system migrations, and payment gateway integrations.
+* 🎓 Currently pursuing a degree in Management, bridging the gap between technical execution and business strategy.
+* 🔍 Actively looking for new opportunities in technical support, e-commerce, or intake roles.
+* ⚡ Fact: I enjoy streamlining API logic and building efficient B2B setups.
+
+
+
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=007acc&line=007acc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blaize-Egelhof&bg_color=0d1117&color=007acc&line=007acc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/blaize-egelhof-690391250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:Blaize.Egelhof@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
