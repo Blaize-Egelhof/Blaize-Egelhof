@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Blaize!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Animated Header" />
-  
+  <h1>Hi there, I'm Blaize <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="35px"></h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=007ACC&width=435&lines=Backend+Development;Fintech+Integrations;Database+Management;Technical+Account+Management" alt="Typing SVG" />
 </div>
 
@@ -23,6 +22,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   
   <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
   
